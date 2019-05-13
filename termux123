@@ -1,0 +1,45 @@
+#!/system/xbin/bash
+# Tolong digunakan dengan baik
+clear
+figlet GREEN | lolcat
+figlet DRAGON | lolcat
+echo
+echo " =============== " 
+echo " TOOLS BY : TUAN_GHOST
+echo " TEAM     : GREEN DRAGON
+echo " no w.a   : 08963552****
+echo " =============== "
+echo 
+echo "menu Tools installer
+echo
+echo " 1. install tool bajingan | lolcat
+echo " 2. install tools ghost
+echo " 3. keluar | lolcat
+echo " silahkan dipilih tools yang mau " | lolcat
+echo " di install "
+echo
+read -p "ghost --p ' volurc
+if [ $volume -1 ] || [ $volume = 01
+clear
+figlet ghost | lolcat
+figlet " loading "
+apt install update
+apt install upgrade
+pip2 install termcolor
+pip2 install lolcat
+apt install toilet
+apt install git
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+cd BAJINGANv6
+sh BAJINGAN.sh
+fi
+
+if [ $volume - 2 ] || [[ volume = o2
+clear
+toilet ghost | lolcat
+fi [ $volume = 01
+then
+clear
+echo " makasih sampai jumpa kembali
+exit
+fi
